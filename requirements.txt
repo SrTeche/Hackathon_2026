@@ -7,3 +7,4 @@ docx-mailmerge
 python-docx
 openpyxl
 seaborn
+scipy
