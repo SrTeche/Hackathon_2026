@@ -6,3 +6,4 @@ scikit-learn
 docx-mailmerge
 python-docx
 openpyxl
+seaborn
