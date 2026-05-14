@@ -1,2 +1,2 @@
-# Hackathon_2026
-Proyecto de la hackatón 2026
+# CalibraData_Hackaton
+Modelo Regresión Isotónica
